@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/o8m2B581Y44t8i28y2/giphy.gif" width="60" alt="Developer GIF">
-  Hi there, I'm <span style="color:#0078D4;">YOUR_USERNAME</span> 👋
+  Hi there, I'm <span style="color:#0078D4;">NikkoAvardes</span> 👋
 </h1>
 <p align="center">
   A passionate <strong>Software Engineer & DevOps Enthusiast</strong><br>
