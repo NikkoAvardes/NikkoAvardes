@@ -1,19 +1,20 @@
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,js,bash,linux,kali,nmap,wireshark,burpsuite,metasploit,docker,git,aws,azure,gcp&theme=dark" alt="Cybersecurity Skills" />
-</p>
-  Hello, I'm <span style="color:#0078D4;">NikkoAvardes</span>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R4d25tbzQzN25nODVpdWkybjJqOW5hMGZ5cHRocThraXl2YzR5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tu9eYwVdm/giphy.gif" width="50" alt="Hacker GIF">
+  Hey there, I'm <span style="color:#0078D4;">NikkoAvardes</span> 👋
 </h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NikkoAvardes&style=for-the-badge&color=blueviolet" alt="Profile views">
+  🔐 A passionate **Cybersecurity** enthusiast and developer.<br>
+  🎓 Currently studying at <strong>Holberton School</strong>, focusing on defense & ethical hacking.
 </p>
+
 <p align="center">
-  A dedicated <strong style="color:#2196F3;">Cybersecurity</strong> enthusiast on a mission to defend, secure, and innovate.<br>
-  Currently sharpening my skills at <strong>Holberton School</strong>.
+  <img alt="Followers" src="https://img.shields.io/github/followers/NikkoAvardes?style=for-the-badge&color=blue&logo=github">
+  <img alt="Views" src="https://komarev.com/ghpvc/?username=NikkoAvardes&style=for-the-badge&color=green">
 </p>
 
 ---
 
-### 💻 My Core Stack
+## 🛠 My Cybersecurity Toolkit
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,c,js,bash,linux,kali,nmap,wireshark,burpsuite,metasploit,docker,git,aws,azure&theme=dark" alt="Cybersecurity Skills" />
@@ -21,48 +22,40 @@
 
 ---
 
-### 📊 GitHub Activity
+## 📈 My GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/NikkoAvardes">
-    <img src="https://github-readme-stats.vercel.app/api?username=NikkoAvardes&show_icons=true&theme=default&hide_border=true&title_color=0078D4&icon_color=0078D4" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/NikkoAvardes">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikkoAvardes&theme=default" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=NikkoAvardes&show_icons=true&theme=default&hide_border=true&title_color=0078D4&icon_color=0078D4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikkoAvardes&theme=default" />
 </p>
 
 ---
 
-### 🌱 What I'm Learning & Building
+## ⚙️ What I'm currently working on
 
-- Diving deep into **threat intelligence** and **incident response**.
-- Developing **automation scripts** to simplify security tasks.
-- Actively exploring **CTF challenges** and new exploit techniques.
+- 📚 Studying **penetration testing** methodologies.
+- 💻 Building **security-focused scripts** in Python and Bash.
+- 🌐 Exploring **web application vulnerabilities** and defensive techniques.
 
 ---
 
-### 🏆 My Favorite Repositories
+## 📌 Featured Repositories
 
 <p align="center">
   <a href="https://github.com/NikkoAvardes/YOUR_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikkoAvardes&repo=YOUR_REPO_1&theme=default&title_color=0078D4&icon_color=0078D4" alt="Pinned Repository 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikkoAvardes&repo=YOUR_REPO_1&theme=default" />
   </a>
   <a href="https://github.com/NikkoAvardes/YOUR_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikkoAvardes&repo=YOUR_REPO_2&theme=default&title_color=0078D4&icon_color=0078D4" alt="Pinned Repository 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikkoAvardes&repo=YOUR_REPO_2&theme=default" />
   </a>
 </p>
 
 ---
 
-### 🤝 Let's Connect
+## 📫 How to reach me
 
 <p align="center">
   <a href="https://t.me/NikkoAvardes">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGgyc2Q1YW1jNTN3eG9wdDltcnkzdTFxNm9hZmF5bjM5a2NlYzZyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tu9eYwVdm/giphy.gif" width="100" />
 </p>
