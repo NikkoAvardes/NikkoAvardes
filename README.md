@@ -23,69 +23,65 @@
 ---
 ## 📈 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikkoAvardes&show_icons=true&theme=custom&hide_border=true&title_color=ffffff&icon_color=4EC8F0&text_color=C0C7D4&bg_color=1a1a2e,2e3b55" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikkoAvardes&layout=compact&theme=custom&hide_border=true&title_color=ffffff&text_color=C0C7D4&bg_color=1a1a2e,2e3b55" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikkoAvardes&theme=custom&hide_border=true&stroke=4EC8F0&background=1a1a2e,2e3b55&ring=4EC8F0&fire=FF6B6B&currStreakNum=C0C7D4&sideNums=C0C7D4&currStreakLabel=ffffff&sideLabels=ffffff&dates=C0C7D4" height="180"/>
-</p>
+<div class="github-stats-container">
+  <img src="https://github-readme-stats.vercel.app/api?username=NikkoAvardes&show_icons=true&theme=custom&hide_border=true&title_color=E6E9EF&icon_color=4EC8F0&text_color=A8B1C2&bg_color=1e2a44,3b4a6b" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikkoAvardes&layout=compact&theme=custom&hide_border=true&title_color=E6E9EF&text_color=A8B1C2&bg_color=1e2a44,3b4a6b" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikkoAvardes&theme=custom&hide_border=true&stroke=4EC8F0&background=1e2a44,3b4a6b&ring=4EC8F0&fire=FF6B6B&currStreakNum=A8B1C2&sideNums=A8B1C2&currStreakLabel=E6E9EF&sideLabels=E6E9EF&dates=A8B1C2" alt="Streak Stats" height="180"/>
+</div>
 
 <style>
-  /* Custom theme for GitHub stats */
   :root {
-    --bg-gradient-start: #1a1a2e;
-    --bg-gradient-end: #2e3b55;
-    --text-primary: #ffffff;
-    --text-secondary: #C0C7D4;
+    --bg-gradient-start: #1e2a44;
+    --bg-gradient-end: #3b4a6b;
+    --text-primary: #E6E9EF;
+    --text-secondary: #A8B1C2;
     --accent: #4EC8F0;
     --highlight: #FF6B6B;
   }
 
-  /* Container for stats cards */
-  p {
+  .github-stats-container {
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 16px;
     flex-wrap: wrap;
     background: linear-gradient(135deg, var(--bg-gradient-start), var(--bg-gradient-end));
-    padding: 20px;
+    padding: 24px;
     border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+    max-width: 960px;
     margin: 0 auto;
-    max-width: 1000px;
   }
 
-  /* Image styling for stats cards */
-  img {
-    border-radius: 8px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-
-  img:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.4);
-  }
-
-  /* Typography for the header */
   h2 {
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
     color: var(--text-primary);
     text-align: center;
-    font-size: 28px;
+    font-size: 26px;
     font-weight: 700;
-    margin-bottom: 20px;
-    letter-spacing: -0.5px;
+    letter-spacing: -0.4px;
+    margin-bottom: 16px;
   }
 
-  /* Responsive adjustments */
+  img {
+    border-radius: 10px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  img:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  }
+
   @media (max-width: 768px) {
-    p {
+    .github-stats-container {
       flex-direction: column;
       align-items: center;
-      gap: 15px;
+      gap: 12px;
+      padding: 16px;
     }
     img {
       width: 100%;
-      max-width: 350px;
+      max-width: 320px;
     }
   }
 </style>
