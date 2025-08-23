@@ -30,21 +30,12 @@
 </div>
 
 <style>
-  :root {
-    --bg-start: #1f2a44;
-    --bg-end: #3a4b6a;
-    --text-main: #ffffff;
-    --text-secondary: #b0b8c4;
-    --accent: #4ec8f0;
-    --highlight: #ff6b6b;
-  }
-
   .stats-container {
     display: flex;
     justify-content: center;
     gap: 10px;
     flex-wrap: wrap;
-    background: linear-gradient(135deg, var(--bg-start), var(--bg-end));
+    background: linear-gradient(135deg, #1f2a44, #3a4b6a);
     padding: 16px;
     border-radius: 8px;
     max-width: 880px;
@@ -53,7 +44,7 @@
 
   h2 {
     font-family: 'Inter', -apple-system, 'Segoe UI', Roboto, sans-serif;
-    color: var(--text-main);
+    color: #ffffff;
     text-align: center;
     font-size: 22px;
     font-weight: 600;
