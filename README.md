@@ -1,59 +1,42 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R4d25tbzQzN25nODVpdWkybjJqOW5hMGZ5cHRocThraXl2YzR5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tu9eYwVdm/giphy.gif" width="50" alt="Hacker GIF">
-  Hey there, I'm <span style="color:#0078D4;">NikkoAvardes</span> 👋
-</h1>
-<p align="center">
-  🔐 A passionate **Cybersecurity** enthusiast and developer.<br>
-  🎓 Currently studying at <strong>Holberton School</strong>, focusing on defense & ethical hacking.
-</p>
+<h1 align="center">Hi 👋, I'm NikkoAvardes</h1>
+<h3 align="center">Aspiring Cybersecurity Specialist | Holberton School Student</h3>
+<h3 align="center">Learning and building skills in cybersecurity, system programming, and DevOps tools to prepare for real-world challenges.</h3>
 
-<p align="center">
-  <img alt="Followers" src="https://img.shields.io/github/followers/NikkoAvardes?style=for-the-badge&color=blue&logo=github">
-  <img alt="Views" src="https://komarev.com/ghpvc/?username=NikkoAvardes&style=for-the-badge&color=green">
-</p>
-
----
-
-## 🛠 My Cybersecurity Toolkit
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,js,bash,linux" alt="Cybersecurity Skills" />
-</p>
-
----
-## 📈 My GitHub Stats
-
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; background: linear-gradient(135deg, #1f2a44, #3a4b6a); padding: 16px; border-radius: 8px; max-width: 880px; margin: 0 auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikkoAvardes&show_icons=true&theme=custom&hide_border=true&title_color=ffffff&text_color=b0b8c4&icon_color=4ec8f0&bg_color=1f2a44,3a4b6a" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikkoAvardes&layout=compact&theme=custom&hide_border=true&title_color=ffffff&text_color=b0b8c4&bg_color=1f2a44,3a4b6a" alt="Top Languages" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikkoAvardes&theme=custom&hide_border=true&stroke=4ec8f0&background=1f2a44,3a4b6a&ring=4ec8f0&fire=ff6b6b&currStreakNum=b0b8c4&sideNums=b0b8c4&currStreakLabel=ffffff&sideLabels=ffffff&dates=b0b8c4" alt="Streak Stats" height="160"/>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=your-github-username" alt="Profile Views"/>
 </div>
 
-## ⚙️ What I'm currently working on
+<ul>
+    <li>🌱 I’m currently learning <strong>Cybersecurity, C, Python, Bash, JavaScript</strong></li>
+    <li>👨‍💻 My projects are currently in development, mainly in <strong>VS Code</strong></li>
+    <li>💬 Ask me about <strong>Linux, Git, Docker, programming</strong></li>
+    <li>📫 How to reach me <strong>your-email@example.com</strong></li>
+    <li>⚡ Fun fact <strong>I love solving challenging problems and learning new technologies daily.</strong></li>
+</ul>
 
-- 📚 Studying **penetration testing** methodologies.
-- 💻 Building **security-focused scripts** in Python and Bash.
-- 🌐 Exploring **web application vulnerabilities** and defensive techniques.
-
----
-
-## 📌 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/NikkoAvardes/YOUR_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikkoAvardes&repo=YOUR_REPO_1&theme=default" />
-  </a>
-  <a href="https://github.com/NikkoAvardes/YOUR_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikkoAvardes&repo=YOUR_REPO_2&theme=default" />
-  </a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://github.com/your-github-username" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40"/></a>
+    <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/></a>
+</p>
 
-## 📫 How to reach me
-
+<h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
-  <a href="https://t.me/NikkoAvardes">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
+    <a href="https://github.com/your-github-username">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=8&theme=algolia"/>
+    </a>
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=merko&hide_border=true"/>
 </p>
