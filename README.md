@@ -23,67 +23,67 @@
 ---
 ## 📈 My GitHub Stats
 
-<div class="github-stats-container">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikkoAvardes&show_icons=true&theme=custom&hide_border=true&title_color=E6E9EF&icon_color=4EC8F0&text_color=A8B1C2&bg_color=1e2a44,3b4a6b" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikkoAvardes&layout=compact&theme=custom&hide_border=true&title_color=E6E9EF&text_color=A8B1C2&bg_color=1e2a44,3b4a6b" alt="Top Languages" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikkoAvardes&theme=custom&hide_border=true&stroke=4EC8F0&background=1e2a44,3b4a6b&ring=4EC8F0&fire=FF6B6B&currStreakNum=A8B1C2&sideNums=A8B1C2&currStreakLabel=E6E9EF&sideLabels=E6E9EF&dates=A8B1C2" alt="Streak Stats" height="180"/>
+<div class="stats-container">
+  <img src="https://github-readme-stats.vercel.app/api?username=NikkoAvardes&show_icons=true&theme=custom&hide_border=true&title_color=ffffff&text_color=b0b8c4&icon_color=4ec8f0&bg_color=1f2a44,3a4b6a" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikkoAvardes&layout=compact&theme=custom&hide_border=true&title_color=ffffff&text_color=b0b8c4&bg_color=1f2a44,3a4b6a" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikkoAvardes&theme=custom&hide_border=true&stroke=4ec8f0&background=1f2a44,3a4b6a&ring=4ec8f0&fire=ff6b6b&currStreakNum=b0b8c4&sideNums=b0b8c4&currStreakLabel=ffffff&sideLabels=ffffff&dates=b0b8c4" alt="Streak Stats" height="170"/>
 </div>
 
 <style>
   :root {
-    --bg-gradient-start: #1e2a44;
-    --bg-gradient-end: #3b4a6b;
-    --text-primary: #E6E9EF;
-    --text-secondary: #A8B1C2;
-    --accent: #4EC8F0;
-    --highlight: #FF6B6B;
+    --bg-start: #1f2a44;
+    --bg-end: #3a4b6a;
+    --text-main: #ffffff;
+    --text-secondary: #b0b8c4;
+    --accent: #4ec8f0;
+    --highlight: #ff6b6b;
   }
 
-  .github-stats-container {
+  .stats-container {
     display: flex;
     justify-content: center;
-    gap: 16px;
+    gap: 12px;
     flex-wrap: wrap;
-    background: linear-gradient(135deg, var(--bg-gradient-start), var(--bg-gradient-end));
-    padding: 24px;
-    border-radius: 12px;
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
-    max-width: 960px;
+    background: linear-gradient(135deg, var(--bg-start), var(--bg-end));
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    max-width: 900px;
     margin: 0 auto;
   }
 
   h2 {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    color: var(--text-primary);
+    font-family: 'Inter', -apple-system, 'Segoe UI', Roboto, sans-serif;
+    color: var(--text-main);
     text-align: center;
-    font-size: 26px;
-    font-weight: 700;
-    letter-spacing: -0.4px;
-    margin-bottom: 16px;
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: -0.3px;
+    margin-bottom: 12px;
   }
 
   img {
-    border-radius: 10px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 8px;
+    transition: transform 0.2s ease;
   }
 
   img:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+    transform: translateY(-3px);
   }
 
   @media (max-width: 768px) {
-    .github-stats-container {
+    .stats-container {
       flex-direction: column;
       align-items: center;
-      gap: 12px;
+      gap: 10px;
       padding: 16px;
     }
     img {
       width: 100%;
-      max-width: 320px;
+      max-width: 300px;
     }
   }
+</style>
 
 ## ⚙️ What I'm currently working on
 
