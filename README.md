@@ -17,7 +17,10 @@
 ## 🛠 My Cybersecurity Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,js,bash,linux,kali,nmap,wireshark,burpsuite,metasploit,docker,git&theme=dark" alt="Tools & Platforms"src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" alt="Cloud & DevOps" />
+  <img src="https://skillicons.dev/icons?i=py,c,js,bash,linux,kali,nmap,wireshark,burpsuite,metasploit,docker,git&theme=dark" alt="Tools & Platforms" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" alt="Cloud & DevOps" />
 </p>
 
 ---
