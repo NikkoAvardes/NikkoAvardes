@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk2eWc2MWF3aW84OHpmNmg1NGo1bm1wdjY4Z3VmeWh0MGU4eG02YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tu9eYwVdm/giphy.gif" width="50" alt="Hacker GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R4d25tbzQzN25nODVpdWkybjJqOW5hMGZ5cHRocThraXl2YzR5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tu9eYwVdm/giphy.gif" width="50" alt="Animated GIF">
   Hey there, I'm <span style="color:#0078D4;">NikkoAvardes</span> 👋
 </h1>
 <p align="center">
@@ -7,28 +7,25 @@
   🎓 Currently studying at <strong>Holberton School</strong>, focusing on defense & ethical hacking.
 </p>
 
+<p align="center">
+  <img alt="Followers" src="https://img.shields.io/github/followers/NikkoAvardes?style=for-the-badge&color=blue&logo=github">
+  <img alt="Stars" src="https://img.shields.io/github/stars/NikkoAvardes?style=for-the-badge&color=yellow">
+  <img alt="Views" src="https://komarev.com/ghpvc/?username=NikkoAvardes&style=for-the-badge&color=green">
+</p>
+
 ---
 
-## 🛠 My Cybersecurity Skills
+## 🛠 My Cybersecurity Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,js,bash&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=py,c,js,bash,linux,kali,nmap,wireshark,burpsuite,metasploit,docker,git&theme=dark" alt="Tools & Platforms" />
   <br>
-  <img src="https://skillicons.dev/icons?i=linux,kali,nmap,wireshark,burpsuite,metasploit,docker&theme=dark" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" alt="Cloud & DevOps" />
 </p>
 
 ---
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikkoAvardes&show_icons=true&theme=default&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikkoAvardes&theme=default" />
-</p>
-
----
-
-## ⚙️ What I'm currently working on
+## 🚀 What I'm currently working on
 
 - 📚 Studying **penetration testing** methodologies.
 - 💻 Building **security-focused scripts** in Python and Bash.
@@ -36,7 +33,29 @@
 
 ---
 
-## 📫 Let's Connect
+## 📈 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NikkoAvardes&show_icons=true&theme=default&hide_border=true&title_color=0078D4&icon_color=0078D4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikkoAvardes&theme=default" />
+</p>
+
+---
+
+## 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/NikkoAvardes/YOUR_REPO_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikkoAvardes&repo=YOUR_REPO_1&theme=default" />
+  </a>
+  <a href="https://github.com/NikkoAvardes/YOUR_REPO_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikkoAvardes&repo=YOUR_REPO_2&theme=default" />
+  </a>
+</p>
+
+---
+
+## 📫 How to reach me
 
 <p align="center">
   <a href="https://t.me/NikkoAvardes">
