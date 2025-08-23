@@ -84,7 +84,6 @@
       max-width: 320px;
     }
   }
-</style>
 
 ## ⚙️ What I'm currently working on
 
