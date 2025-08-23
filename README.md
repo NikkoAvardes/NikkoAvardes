@@ -3,14 +3,14 @@
 <h3 align="center">Learning and building skills in cybersecurity, system programming, and DevOps tools to prepare for real-world challenges.</h3>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=NikkoAvardes" alt="Profile Views"/>
 </div>
 
 <ul>
     <li>🌱 I’m currently learning <strong>Cybersecurity, C, Python, Bash, JavaScript</strong></li>
     <li>👨‍💻 My projects are currently in development, mainly in <strong>VS Code</strong></li>
     <li>💬 Ask me about <strong>Linux, Git, Docker, programming</strong></li>
-    <li>📫 How to reach me <strong>NikkoAvardes</strong></li>
+    <li>📫 How to reach me <strong>NikkoAvardes.com</strong></li>
     <li>⚡ Fun fact <strong>I love solving challenging problems and learning new technologies daily.</strong></li>
 </ul>
 
@@ -34,9 +34,9 @@
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 <p align="center">
-    <a href="https://github.com/your-github-username">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=your-github-username&layout=compact&langs_count=8&theme=algolia"/>
+    <a href="https://github.com/NikkoAvardes">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NikkoAvardes&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NikkoAvardes&layout=compact&langs_count=8&theme=algolia"/>
     </a>
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=merko&hide_border=true"/>
+    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=NikkoAvardes&theme=merko&hide_border=true"/>
 </p>
