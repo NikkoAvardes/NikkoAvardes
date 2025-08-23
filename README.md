@@ -24,7 +24,6 @@
 </p>
 
 ---
-
 ## 🚀 What I'm currently working on
 
 - 📚 Studying **penetration testing** methodologies.
@@ -40,25 +39,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikkoAvardes&theme=default" />
 </p>
 
----
-
-## 📌 Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/NikkoAvardes/YOUR_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikkoAvardes&repo=YOUR_REPO_1&theme=default" />
-  </a>
-  <a href="https://github.com/NikkoAvardes/YOUR_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NikkoAvardes&repo=YOUR_REPO_2&theme=default" />
-  </a>
-</p>
-
----
-
-## 📫 How to reach me
-
-<p align="center">
-  <a href="https://t.me/NikkoAvardes">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-</p>
