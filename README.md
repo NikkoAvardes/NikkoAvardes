@@ -17,7 +17,7 @@
 ## 🛠 My Cybersecurity Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,js,bash,linux,kali,nmap,wireshark,burpsuite,metasploit,docker,git,aws,azure,gcp&theme=dark" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=py,c,js,bash,linux,kali,nmap,wireshark,burpsuite,metasploit, <br> docker,git,aws,azure,gcp&theme=dark" alt="Tools & Platforms" />
 </p>
 
 ---
