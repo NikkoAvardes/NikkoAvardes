@@ -1,5 +1,6 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTB6dzh5MXh3dDR1ajl1c2F0NnR3MXlqMWV6a3JjajM3cG03NnRxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tu9eYwVdm/giphy.gif" width="60" alt="Hacker GIF">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,c,js,bash,linux,kali,nmap,wireshark,burpsuite,metasploit,docker,git,aws,azure,gcp&theme=dark" alt="Cybersecurity Skills" />
+</p>
   Hello, I'm <span style="color:#0078D4;">NikkoAvardes</span>
 </h1>
 <p align="center">
