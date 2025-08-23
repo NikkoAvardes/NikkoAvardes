@@ -29,61 +29,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikkoAvardes&theme=custom&hide_border=true&stroke=4ec8f0&background=1f2a44,3a4b6a&ring=4ec8f0&fire=ff6b6b&currStreakNum=b0b8c4&sideNums=b0b8c4&currStreakLabel=ffffff&sideLabels=ffffff&dates=b0b8c4" alt="Streak Stats" height="170"/>
 </div>
 
-<style>
-  :root {
-    --bg-start: #1f2a44;
-    --bg-end: #3a4b6a;
-    --text-main: #ffffff;
-    --text-secondary: #b0b8c4;
-    --accent: #4ec8f0;
-    --highlight: #ff6b6b;
-  }
 
-  .stats-container {
-    display: flex;
-    justify-content: center;
-    gap: 12px;
-    flex-wrap: wrap;
-    background: linear-gradient(135deg, var(--bg-start), var(--bg-end));
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
-    max-width: 900px;
-    margin: 0 auto;
-  }
-
-  h2 {
-    font-family: 'Inter', -apple-system, 'Segoe UI', Roboto, sans-serif;
-    color: var(--text-main);
-    text-align: center;
-    font-size: 24px;
-    font-weight: 600;
-    letter-spacing: -0.3px;
-    margin-bottom: 12px;
-  }
-
-  img {
-    border-radius: 8px;
-    transition: transform 0.2s ease;
-  }
-
-  img:hover {
-    transform: translateY(-3px);
-  }
-
-  @media (max-width: 768px) {
-    .stats-container {
-      flex-direction: column;
-      align-items: center;
-      gap: 10px;
-      padding: 16px;
-    }
-    img {
-      width: 100%;
-      max-width: 300px;
-    }
-  }
-</style>
 
 ## ⚙️ What I'm currently working on
 
