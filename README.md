@@ -1,5 +1,4 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R4d25tbzQzN25nODVpdWkybjJqOW5hMGZ5cHRocThraXl2YzR5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tu9eYwVdm/giphy.gif" width="50" alt="Animated GIF">
   Hey there, I'm <span style="color:#0078D4;">NikkoAvardes</span> 👋
 </h1>
 <p align="center">
@@ -19,7 +18,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,c,js,bash,linux,kali,nmap,wireshark,burpsuite,metasploit,docker,git&theme=dark" alt="Tools & Platforms" />
-  <br>
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" alt="Cloud & DevOps" />
 </p>
 
