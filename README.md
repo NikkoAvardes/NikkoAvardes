@@ -25,9 +25,9 @@
 ## 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikkoAvardes&show_icons=true&theme=default&hide_border=true&title_color=0078D4&icon_color=0078D4" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikkoAvardes&theme=default" />
-  <img src="https://github-profile-trophy.vercel.app/?username=NikkoAvardes&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NikkoAvardes&show_icons=true&theme=default&hide_border=true&title_color=0078D4&icon_color=0078D4" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikkoAvardes&layout=compact&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikkoAvardes&theme=default" height="165" />
 </p>
 
 ---
