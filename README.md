@@ -7,7 +7,7 @@
 </div>
 
 <ul>
-    <li>🌱 I’m currently learning <strong>Cybersecurity, C, Python, Bash, JavaScript</strong></li>
+    <li>🌱 I’m currently learning <strong>C, Python, Bash, JavaScript, HTML, CSS</strong></li>
     <li>👨‍💻 My projects are currently in development, mainly in <strong>VS Code</strong></li>
     <li>💬 Ask me about <strong>Linux, Git, Docker, programming</strong></li>
     <li>📫 How to reach me <strong>NikkoAvardes.com</strong></li>
