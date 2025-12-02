@@ -9,7 +9,7 @@
 <ul>
     <li>🌱 I’m currently learning <strong>C, Python, Bash, JavaScript, HTML, CSS</strong></li>
     <li>👨‍💻 My projects are currently in development, mainly in <strong>VS Code</strong></li>
-    <li>💬 Ask me about <strong>Linux, Git, Docker, programming</strong></li>
+    <li>💬 Ask me about <strong>Linux, Git, programming</strong></li>
     <li>📫 How to reach me <strong>NikkoAvardes.com</strong></li>
     <li>⚡ Fun fact <strong>I love solving challenging problems and learning new technologies daily.</strong></li>
 </ul>
