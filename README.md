@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NikkoAvardes</h1>
-<h3 align="center">Aspiring Cybersecurity Specialist | Holberton School Student</h3>
+<h3 align="center">Holberton School Student</h3>
 <h3 align="center">Learning and building skills in cybersecurity, system programming, and DevOps tools to prepare for real-world challenges.</h3>
 
 <div align="center">
