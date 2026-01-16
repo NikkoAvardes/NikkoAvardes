@@ -38,34 +38,34 @@
 <td align="center" width="33%">
 
 **🔧 Build**
-<pre lang="javascript">
-const solution = 
+<pre>
+<code>const solution = 
   problem => {
     return code;
-  }
+  }</code>
 </pre>
 
 </td>
 <td align="center" width="33%">
 
 **🧠 Understand**
-<pre lang="python">
-while not_mastered:
+<pre>
+<code>while not_mastered:
     learn()
     practice()
-    level_up()
+    level_up()</code>
 </pre>
 
 </td>
 <td align="center" width="33%">
 
 **⚡ Execute**
-<pre lang="c">
-int main(void) {
+<pre>
+<code>int main(void) {
     idea();
     implement();
     return (0);
-}
+}</code>
 </pre>
 
 </td>
