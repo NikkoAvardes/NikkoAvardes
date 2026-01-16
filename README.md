@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/NikkoAvardes/NikkoAvardes/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://github.com/NikkoAvardes/NikkoAvardes/blob/output/github-contribution-grid-snake.gif" alt="Snake Animation" width="100%"/>
 </p>
 
 <table align="center" width="100%" style="border: none;">
