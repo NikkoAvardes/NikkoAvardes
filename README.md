@@ -44,7 +44,8 @@ const solution =
     return code;
   }
 ```
-
+</table>
+<table>
 </td>
 <td align="center" width="33%">
 
@@ -55,7 +56,8 @@ while not_mastered:
     practice()
     level_up()
 ```
-
+</table>
+<table>
 </td>
 <td align="center" width="33%">
 
