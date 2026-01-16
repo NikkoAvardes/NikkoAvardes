@@ -28,7 +28,7 @@
 
 <table align="center">
 <tr>
-<td align="center" width="50%">
+<td align="center" width="80%">
   
 ### 💡 My Philosophy
   
