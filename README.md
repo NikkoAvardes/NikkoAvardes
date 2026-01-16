@@ -32,7 +32,7 @@
   
 ### 💡 My Philosophy
   
-```
+```c
 while (alive) {
     eat();
     sleep();
