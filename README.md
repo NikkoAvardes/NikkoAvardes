@@ -18,11 +18,50 @@
 
 <br>
 
-<h3 align="center">Waiting for the next challenge to execute.</h3>
+<h3 align="center">⚡ Waiting for the next challenge to execute ⚡</h3>
 
 <p align="center">
- I am a <strong>Holberton School Student</strong> with a rigorous background in <strong>Low-level programming (C)</strong> and <strong>System Administration</strong>, currently expanding into <strong>Fullstack Development</strong> and <strong>DevOps</strong>. <br>
- I don't just write code; I strive to understand how it works under the hood—from memory management in C to container orchestration with Docker.
+  <img src="https://img.shields.io/badge/🎓_Holberton_School-Student-FF6C37?style=for-the-badge&labelColor=000000" alt="Holberton"/>
+  <img src="https://img.shields.io/badge/🔥_Low--Level-Expert-00599C?style=for-the-badge&labelColor=000000" alt="Low-Level"/>
+  <img src="https://img.shields.io/badge/🚀_Fullstack-In_Progress-61DAFB?style=for-the-badge&labelColor=000000" alt="Fullstack"/>
+  <img src="https://img.shields.io/badge/⚙️_DevOps-Learning-2496ED?style=for-the-badge&labelColor=000000" alt="DevOps"/>
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+  
+### 💡 My Philosophy
+  
+```c
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+```
+
+</td>
+<td align="center" width="50%">
+  
+### 🎯 My Approach
+  
+**I don't just write code**  
+↓  
+**I understand systems**  
+↓  
+From **memory management in C**  
+to **container orchestration with Docker**
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Code%20•%20Learn%20•%20Build&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
 </p>
 
 ---
