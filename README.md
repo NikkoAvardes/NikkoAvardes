@@ -42,7 +42,7 @@ while (alive) {
 ```
 
 </td>
-<td align="center" width="700%">
+<td align="center" width="80%">
   
 ### 🎯 My Approach
   
