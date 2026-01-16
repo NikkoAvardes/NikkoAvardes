@@ -136,7 +136,7 @@ A complete AirBnB replica with REST API, authentication, file/DB storage engines
 ### 🎮 SyntaxHorror
 **🏆 Hackathon Winner** • **Interactive 3D Experience**
 
-An immersive 3D horror game where users solve code puzzles while exploring a dark, atmospheric environment.
+Created a 3D horror game featuring our campus environment with a jumpscare mechanic, developed for the Halloween event.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
@@ -145,7 +145,7 @@ An immersive 3D horror game where users solve code puzzles while exploring a dar
 </td>
 <td width="50%" valign="top">
 
-### 🚢 Infra Deploy
+### 🐳 Softy Pinko Docker
 **Automated Deployment Pipeline**
 
 Containerized deployment system for web applications ensuring consistency across development, staging, and production environments.
@@ -193,7 +193,7 @@ No activity tracked
   <b>Interested in collaboration?</b><br>
   I am open to discussions about Fullstack development and System Programming.<br>
   <br>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:carabetn97@gmail.com">
     <img src="https://img.shields.io/badge/Send_Me_an_Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
