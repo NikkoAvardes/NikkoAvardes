@@ -32,16 +32,26 @@
 <div align="center">
 
 ### 💭 My Mindset
-<table>
 
-**🧠 Understand**
+<table>
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/🧠-Understand-blueviolet?style=for-the-badge&labelColor=000000" alt="Understand"/>
+
 ```python
 while not_mastered:
     learn()
     practice()
     level_up()
 ```
+
+<sub>*Continuous learning is the key to mastery*</sub>
+
+</td>
+</tr>
 </table>
+
 </div>
 
 
