@@ -28,7 +28,7 @@
 
 <table align="center">
 <tr>
-<td align="center" width="80%">
+<td align="center" width="60%">
   
 ### 💡 My Philosophy
   
@@ -42,7 +42,7 @@ while (alive) {
 ```
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="700%">
   
 ### 🎯 My Approach
   
