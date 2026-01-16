@@ -33,7 +33,7 @@
 
 ### 💭 My Mindset
 
-<table width="100%">
+<table width="150%">
 <tr>
 <td align="center">
 
