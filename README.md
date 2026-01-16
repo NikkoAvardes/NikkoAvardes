@@ -18,13 +18,10 @@
 
 <br>
 
-<h3 align="center">⚡ Waiting for the next challenge to execute ⚡</h3>
+<h3 align="center"> Waiting for the next challenge to execute </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎓_Holberton_School-Student-FF6C37?style=for-the-badge&labelColor=000000" alt="Holberton"/>
-  <img src="https://img.shields.io/badge/🔥_Low--Level-Expert-00599C?style=for-the-badge&labelColor=000000" alt="Low-Level"/>
-  <img src="https://img.shields.io/badge/🚀_Fullstack-In_Progress-61DAFB?style=for-the-badge&labelColor=000000" alt="Fullstack"/>
-  <img src="https://img.shields.io/badge/⚙️_DevOps-Learning-2496ED?style=for-the-badge&labelColor=000000" alt="DevOps"/>
+ I am a <strong>Holberton School Student</strong> with a rigorous background in <strong>Low-level programming (C)</strong> and <strong>System Administration</strong>, currently expanding into <strong>Fullstack Development</strong> and <strong>DevOps</strong>. <br>
 </p>
 
 <br>
