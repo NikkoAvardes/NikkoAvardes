@@ -18,16 +18,10 @@
 
 <br>
 
-<p align="center">
-  <samp>
-    <b>Holberton School Student</b> • <b>Systems Programmer</b> • <b>Problem Solver</b>
-  </samp>
-</p>
+<h3 align="center"> Waiting for the next challenge to execute </h3>
 
 <p align="center">
-  <sub>
-    Low-level → Fullstack → DevOps
-  </sub>
+ I am a <strong>Holberton School Student</strong> with a rigorous background in <strong>Low-level programming (C)</strong> and <strong>System Administration</strong>, currently expanding into <strong>Fullstack Development</strong> and <strong>DevOps</strong>. <br>
 </p>
 
 <br>
