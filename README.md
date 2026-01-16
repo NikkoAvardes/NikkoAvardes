@@ -38,34 +38,34 @@
 <td align="center" width="33%">
 
 **🔧 Build**
-<div style="background-color:#1e1e1e; padding:10px; border-radius:5px; font-family:monospace; text-align:left;">
-<span style="color:#ff6b6b;">const</span> <span style="color:#e0e0e0;">solution =</span><br>
-&nbsp;&nbsp;<span style="color:#e0e0e0;">problem => {</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ff6b6b;">return</span> <span style="color:#e0e0e0;">code;</span><br>
-&nbsp;&nbsp;<span style="color:#e0e0e0;">}</span>
+<div style="background-color:#0d1117; padding:15px; border-radius:8px; font-family:'Courier New',monospace; text-align:left; border:1px solid #30363d;">
+<span style="color:#ff7b72;">const</span> <span style="color:#d2a8ff;">solution</span> <span style="color:#ff7b72;">=</span><br>
+&nbsp;&nbsp;<span style="color:#d2a8ff;">problem</span> <span style="color:#ff7b72;">=></span> <span style="color:#ffa657;">{</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ff7b72;">return</span> <span style="color:#d2a8ff;">code</span><span style="color:#ffa657;">;</span><br>
+&nbsp;&nbsp;<span style="color:#ffa657;">}</span>
 </div>
 
 </td>
 <td align="center" width="33%">
 
 **🧠 Understand**
-<div style="background-color:#1e1e1e; padding:10px; border-radius:5px; font-family:monospace; text-align:left;">
-<span style="color:#ff6b6b;">while</span> <span style="color:#e0e0e0;">not_mastered:</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#e0e0e0;">learn()</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#e0e0e0;">practice()</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#e0e0e0;">level_up()</span>
+<div style="background-color:#0d1117; padding:15px; border-radius:8px; font-family:'Courier New',monospace; text-align:left; border:1px solid #30363d;">
+<span style="color:#ff7b72;">while</span> <span style="color:#d2a8ff;">not_mastered</span><span style="color:#ffa657;">:</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#d2a8ff;">learn</span><span style="color:#ffa657;">()</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#d2a8ff;">practice</span><span style="color:#ffa657;">()</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#d2a8ff;">level_up</span><span style="color:#ffa657;">()</span>
 </div>
 
 </td>
 <td align="center" width="33%">
 
 **⚡ Execute**
-<div style="background-color:#1e1e1e; padding:10px; border-radius:5px; font-family:monospace; text-align:left;">
-<span style="color:#ff6b6b;">int</span> <span style="color:#e0e0e0;">main(</span><span style="color:#ff6b6b;">void</span><span style="color:#e0e0e0;">) {</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#e0e0e0;">idea();</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#e0e0e0;">implement();</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ff6b6b;">return</span> <span style="color:#e0e0e0;">(0);</span><br>
-<span style="color:#e0e0e0;">}</span>
+<div style="background-color:#0d1117; padding:15px; border-radius:8px; font-family:'Courier New',monospace; text-align:left; border:1px solid #30363d;">
+<span style="color:#ff7b72;">int</span> <span style="color:#d2a8ff;">main</span><span style="color:#ffa657;">(</span><span style="color:#ff7b72;">void</span><span style="color:#ffa657;">) {</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#d2a8ff;">idea</span><span style="color:#ffa657;">();</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#d2a8ff;">implement</span><span style="color:#ffa657;">();</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ff7b72;">return</span> <span style="color:#ffa657;">(</span><span style="color:#79c0ff;">0</span><span style="color:#ffa657;">);</span><br>
+<span style="color:#ffa657;">}</span>
 </div>
 
 </td>
