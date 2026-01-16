@@ -38,35 +38,35 @@
 <td align="center" width="33%">
 
 **🔧 Build**
-```javascript
+<pre lang="javascript">
 const solution = 
   problem => {
     return code;
   }
-```
+</pre>
 
 </td>
 <td align="center" width="33%">
 
 **🧠 Understand**
-```python
+<pre lang="python">
 while not_mastered:
     learn()
     practice()
     level_up()
-```
+</pre>
 
 </td>
 <td align="center" width="33%">
 
 **⚡ Execute**
-```c
+<pre lang="c">
 int main(void) {
     idea();
     implement();
     return (0);
 }
-```
+</pre>
 
 </td>
 </tr>
