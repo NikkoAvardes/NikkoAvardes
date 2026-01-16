@@ -44,6 +44,7 @@ const solution =
     return code;
   }
 ```
+<br>
 
 </td>
 <td align="center" width="33%">
