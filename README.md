@@ -28,14 +28,14 @@
 </p>
 
 <br>
-<table>
+
 <div align="center">
 
 ### 💭 My Mindset
 
 <p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ ◆ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
 
-
+<table>
 **🧠 Understand**
 ```python
 while not_mastered:
