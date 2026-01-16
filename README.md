@@ -31,46 +31,38 @@
 
 <div align="center">
 
-### 💭 My Mindset
+## 💭 My Mindset
 
-<tr>
-<td align="center" width="33%">
+</div>
 
-**🔧 Build**
 ```javascript
+// 🔧 Build
 const solution = 
   problem => {
     return code;
   }
 ```
 
-</td>
-<td align="center" width="33%">
+<div align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</div>
 
-**🧠 Understand**
 ```python
+# 🧠 Understand
 while not_mastered:
     learn()
     practice()
     level_up()
 ```
 
-</td>
-<td align="center" width="33%">
+<div align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</div>
 
-**⚡ Execute**
 ```c
+// ⚡ Execute
 int main(void) {
     idea();
     implement();
     return (0);
 }
 ```
-
-</td>
-</tr>
-
-</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
