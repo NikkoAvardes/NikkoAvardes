@@ -22,14 +22,10 @@
   <strong>Holberton School Student</strong> • Building with <code>C</code>, <code>Python</code>, and <code>JavaScript</code>
 </p>
 
-<br>
-
-<div align="center">
-
-> **From low-level system programming to fullstack development.**  
-> *Understanding how code works under the hood—from memory management to modern web architectures.*
-
-</div>
+<p align="center">
+  From low-level system programming to fullstack development.<br>
+  Understanding how code works under the hood—from memory management to modern web architectures.
+</p>
 
 <br>
 
