@@ -23,8 +23,9 @@
 </p>
 
 <p align="center">
-  From low-level system programming to fullstack development.<br>
-  Understanding how code works under the hood—from memory management to modern web architectures.
+  <sub>⚡</sub> From <strong>low-level system programming</strong> to <strong>fullstack development</strong> <sub>⚡</sub><br>
+  <sub>🔍</sub> Understanding how code works <em>under the hood</em> <sub>🔍</sub><br>
+  <code>Memory Management</code> • <code>System Calls</code> • <code>Web Architectures</code> • <code>APIs</code>
 </p>
 
 <br>
