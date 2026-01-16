@@ -65,6 +65,9 @@
 
 <h3 align="left">📊 Coding Activity</h3>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="left">
 <a href="https://github.com/NikkoAvardes">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NikkoAvardes&layout=compact&theme=gotham&langs_count=6" alt="Wakatime Stats" />

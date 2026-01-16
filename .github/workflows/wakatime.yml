@@ -2,7 +2,6 @@ name: WakaTime stats update
 
 on:
   schedule:
-    # Runs at 12am UTC every day
     - cron: '0 0 * * *'
   workflow_dispatch:
 
@@ -11,8 +10,12 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
       - uses: athul/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          BLOCKS: "â–ˆâ–“â–’â–‘"
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_TOTAL: true
