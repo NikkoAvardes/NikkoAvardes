@@ -136,7 +136,7 @@ A complete AirBnB replica with REST API, authentication, file/DB storage engines
 ### 🎮 SyntaxHorror
 **🏆 Hackathon Winner** • **Interactive 3D Experience**
 
-Created a 3D horror game featuring our campus environment with a jumpscare mechanic, developed for the Halloween event.
+Created a 3D horror game featuring our campus environment, developed for the Halloween event.
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
