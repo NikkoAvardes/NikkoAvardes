@@ -38,35 +38,35 @@
 <td align="center" width="33%">
 
 **🔧 Build**
-<pre>
-<code>const solution = 
-  problem => {
-    return code;
-  }</code>
-</pre>
+<div style="background-color:#1e1e1e; padding:10px; border-radius:5px; font-family:monospace; text-align:left;">
+<span style="color:#ff6b6b;">const</span> <span style="color:#e0e0e0;">solution =</span><br>
+&nbsp;&nbsp;<span style="color:#e0e0e0;">problem => {</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ff6b6b;">return</span> <span style="color:#e0e0e0;">code;</span><br>
+&nbsp;&nbsp;<span style="color:#e0e0e0;">}</span>
+</div>
 
 </td>
 <td align="center" width="33%">
 
 **🧠 Understand**
-<pre>
-<code>while not_mastered:
-    learn()
-    practice()
-    level_up()</code>
-</pre>
+<div style="background-color:#1e1e1e; padding:10px; border-radius:5px; font-family:monospace; text-align:left;">
+<span style="color:#ff6b6b;">while</span> <span style="color:#e0e0e0;">not_mastered:</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#e0e0e0;">learn()</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#e0e0e0;">practice()</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#e0e0e0;">level_up()</span>
+</div>
 
 </td>
 <td align="center" width="33%">
 
 **⚡ Execute**
-<pre>
-<code>int main(void) {
-    idea();
-    implement();
-    return (0);
-}</code>
-</pre>
+<div style="background-color:#1e1e1e; padding:10px; border-radius:5px; font-family:monospace; text-align:left;">
+<span style="color:#ff6b6b;">int</span> <span style="color:#e0e0e0;">main(</span><span style="color:#ff6b6b;">void</span><span style="color:#e0e0e0;">) {</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#e0e0e0;">idea();</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#e0e0e0;">implement();</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ff6b6b;">return</span> <span style="color:#e0e0e0;">(0);</span><br>
+<span style="color:#e0e0e0;">}</span>
+</div>
 
 </td>
 </tr>
