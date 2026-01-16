@@ -19,11 +19,12 @@
 <br>
 
 <p align="center">
-  <code>C</code> • <code>Python</code> • <code>JavaScript</code>
+  <strong>Holberton School Student</strong> • Building with <code>C</code>, <code>Python</code>, and <code>JavaScript</code>
 </p>
 
 <p align="center">
-  <strong>Holberton School Student</strong> • Low-level to Fullstack
+  From low-level system programming to fullstack development.<br>
+  Understanding how code works under the hood—from memory management to modern web architectures.
 </p>
 
 <br>
