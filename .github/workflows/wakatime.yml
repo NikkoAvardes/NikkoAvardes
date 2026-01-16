@@ -18,15 +18,12 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      
-      # ИСПРАВЛЕНИЕ ЗДЕСЬ: убрали "-stats" из названия
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_TITLE: true
           # Блоки для графика
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_TOTAL: true
