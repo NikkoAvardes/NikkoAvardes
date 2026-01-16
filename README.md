@@ -33,10 +33,6 @@
 
 ### 💭 My Mindset
 
-
-<tr>
-<td align="center" width="33%">
-
 **🔧 Build**
 ```javascript
 const solution = 
@@ -44,10 +40,8 @@ const solution =
     return code;
   }
 ```
-<br>
 
-</td>
-<td align="center" width="33%">
+<p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ ◆ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
 
 **🧠 Understand**
 ```python
@@ -57,8 +51,7 @@ while not_mastered:
     level_up()
 ```
 
-</td>
-<td align="center" width="33%">
+<p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ ◆ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
 
 **⚡ Execute**
 ```c
@@ -68,10 +61,6 @@ int main(void) {
     return (0);
 }
 ```
-
-</td>
-</tr>
-
 
 </div>
 
