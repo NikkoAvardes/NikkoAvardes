@@ -33,7 +33,7 @@
 
 ### 💭 My Mindset
 
-<table width="100%">
+
 <tr>
 <td align="center" width="33%">
 
@@ -70,7 +70,7 @@ int main(void) {
 
 </td>
 </tr>
-</table>
+
 
 </div>
 
