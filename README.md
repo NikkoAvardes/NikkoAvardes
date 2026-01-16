@@ -33,44 +33,43 @@
 
 ### 💭 My Mindset
 
-<table>
+
 <tr>
 <td align="center" width="33%">
 
 **🔧 Build**
-<div style="background-color:#0d1117; padding:15px; border-radius:8px; font-family:'Courier New',monospace; text-align:left; border:1px solid #30363d;">
-<span style="color:#ff7b72;">const</span> <span style="color:#d2a8ff;">solution</span> <span style="color:#ff7b72;">=</span><br>
-&nbsp;&nbsp;<span style="color:#d2a8ff;">problem</span> <span style="color:#ff7b72;">=></span> <span style="color:#ffa657;">{</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ff7b72;">return</span> <span style="color:#d2a8ff;">code</span><span style="color:#ffa657;">;</span><br>
-&nbsp;&nbsp;<span style="color:#ffa657;">}</span>
-</div>
+```javascript
+const solution = 
+  problem => {
+    return code;
+  }
+```
 
 </td>
 <td align="center" width="33%">
 
 **🧠 Understand**
-<div style="background-color:#0d1117; padding:15px; border-radius:8px; font-family:'Courier New',monospace; text-align:left; border:1px solid #30363d;">
-<span style="color:#ff7b72;">while</span> <span style="color:#d2a8ff;">not_mastered</span><span style="color:#ffa657;">:</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#d2a8ff;">learn</span><span style="color:#ffa657;">()</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#d2a8ff;">practice</span><span style="color:#ffa657;">()</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#d2a8ff;">level_up</span><span style="color:#ffa657;">()</span>
-</div>
+```python
+while not_mastered:
+    learn()
+    practice()
+    level_up()
+```
 
 </td>
 <td align="center" width="33%">
 
 **⚡ Execute**
-<div style="background-color:#0d1117; padding:15px; border-radius:8px; font-family:'Courier New',monospace; text-align:left; border:1px solid #30363d;">
-<span style="color:#ff7b72;">int</span> <span style="color:#d2a8ff;">main</span><span style="color:#ffa657;">(</span><span style="color:#ff7b72;">void</span><span style="color:#ffa657;">) {</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#d2a8ff;">idea</span><span style="color:#ffa657;">();</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#d2a8ff;">implement</span><span style="color:#ffa657;">();</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#ff7b72;">return</span> <span style="color:#ffa657;">(</span><span style="color:#79c0ff;">0</span><span style="color:#ffa657;">);</span><br>
-<span style="color:#ffa657;">}</span>
-</div>
+```c
+int main(void) {
+    idea();
+    implement();
+    return (0);
+}
+```
 
 </td>
 </tr>
-</table>
 
 </div>
 
