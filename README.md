@@ -33,12 +33,22 @@
 
 ### 💭 My Mindset
 
-<table>
+<table width="100%">
 <tr>
-<td align="center">
+<td align="center" width="33%">
 
-<img src="https://img.shields.io/badge/🧠-Understand-blueviolet?style=for-the-badge&labelColor=000000" alt="Understand"/>
+**🔧 Build**
+```javascript
+const solution = 
+  problem => {
+    return code;
+  }
+```
 
+</td>
+<td align="center" width="33%">
+
+**🧠 Understand**
 ```python
 while not_mastered:
     learn()
@@ -46,7 +56,17 @@ while not_mastered:
     level_up()
 ```
 
-<sub>*Continuous learning is the key to mastery*</sub>
+</td>
+<td align="center" width="33%">
+
+**⚡ Execute**
+```c
+int main(void) {
+    idea();
+    implement();
+    return (0);
+}
+```
 
 </td>
 </tr>
