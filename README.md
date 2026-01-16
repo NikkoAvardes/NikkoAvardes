@@ -100,14 +100,63 @@
 
 ---
 
-<h3 align="left">🚀 Selected Projects</h3>
+<h2 align="center">🚀 Selected Projects</h2>
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **Simple Shell** | Developed a custom command-line interpreter that replicates the functionality of the Unix shell (`sh`). Handles memory management, system calls, and process execution. | `C` `Syscalls` `Memory Mgmt` |
-| **HBnB** | A full-stack AirBnB clone. Includes a REST API, authentication, file/DB storage engines, and a dynamic frontend. | `Python` `Flask` `SQL` `HTML/CSS` |
-| **SyntaxHorror** | *Hackathon Winner.* An interactive 3D horror experience where users solve code puzzles while exploring an immersive environment. | `React` `Three.js` `JavaScript` |
-| **Infra Deploy** | Automated deployment pipeline for web applications using containerization technology to ensure consistency across environments. | `Docker` `Bash` `Nginx` |
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ Simple Shell
+**Custom Unix Shell Implementation**
+
+Developed a command-line interpreter that replicates the functionality of the Unix shell (`sh`). Handles memory management, system calls, and process execution.
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Syscalls](https://img.shields.io/badge/Syscalls-black?style=flat-square)
+![Memory](https://img.shields.io/badge/Memory_Mgmt-gray?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 HBnB
+**Full-Stack AirBnB Clone**
+
+A complete AirBnB replica with REST API, authentication, file/DB storage engines, and a dynamic frontend interface.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 SyntaxHorror
+**🏆 Hackathon Winner** • **Interactive 3D Experience**
+
+An immersive 3D horror game where users solve code puzzles while exploring a dark, atmospheric environment.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚢 Infra Deploy
+**Automated Deployment Pipeline**
+
+Containerized deployment system for web applications ensuring consistency across development, staging, and production environments.
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br>
 
