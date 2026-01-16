@@ -33,14 +33,6 @@
 
 ### 💭 My Mindset
 
-**🔧 Build**
-```javascript
-const solution = 
-  problem => {
-    return code;
-  }
-```
-
 <p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ ◆ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
 
 **🧠 Understand**
@@ -49,17 +41,6 @@ while not_mastered:
     learn()
     practice()
     level_up()
-```
-
-<p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ ◆ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
-
-**⚡ Execute**
-```c
-int main(void) {
-    idea();
-    implement();
-    return (0);
-}
 ```
 
 </div>
