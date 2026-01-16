@@ -18,11 +18,12 @@
 
 <br>
 
-<h3 align="center">⚡ Waiting for the next challenge to execute</h3>
+<p align="center">
+  <code>C</code> • <code>Python</code> • <code>JavaScript</code>
+</p>
 
 <p align="center">
-  <strong>Holberton School Student</strong> • Low-level & System foundations<br>
-  Currently building with <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="18"/> and <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="18"/>
+  <strong>Holberton School Student</strong> • Low-level to Fullstack
 </p>
 
 <br>
