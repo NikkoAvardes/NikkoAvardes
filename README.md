@@ -35,18 +35,7 @@
 
 <table width="100%">
 <tr>
-<td align="center" width="33%">
-
-**🔧 Build**
-```javascript
-const solution = 
-  problem => {
-    return code;
-  }
-```
-
-</td>
-<td align="center" width="33%">
+<td align="center">
 
 **🧠 Understand**
 ```python
@@ -54,18 +43,6 @@ while not_mastered:
     learn()
     practice()
     level_up()
-```
-
-</td>
-<td align="center" width="33%">
-
-**⚡ Execute**
-```c
-int main(void) {
-    idea();
-    implement();
-    return (0);
-}
 ```
 
 </td>
