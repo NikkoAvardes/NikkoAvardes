@@ -29,36 +29,62 @@
 
 <br>
 
-<table align="center">
+<div align="center">
+
+### 💭 My Mindset
+
+<table>
 <tr>
-<td align="center" width="40%">
-  
-### 💡 My Philosophy
-  
+<td align="center" width="33%">
+
+**🔧 Build**
+```javascript
+const solution = 
+  problem => {
+    return code;
+  }
+```
+
+</td>
+<td align="center" width="33%">
+
+**🧠 Understand**
+```python
+while not_mastered:
+    learn()
+    practice()
+    level_up()
+```
+
+</td>
+<td align="center" width="33%">
+
+**⚡ Execute**
 ```c
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
+int main(void) {
+    idea();
+    implement();
+    return (0);
 }
 ```
 
 </td>
-<td align="center" width="60%">
-  
-### 🎯 My Approach
-  
-**I don't just write code**  
-↓  
-**I understand systems**  
-↓  
-From **memory management in C**  
-to **container orchestration with Docker**
-
-</td>
 </tr>
 </table>
+
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
+
+<div align="center">
+
+**🎯 From System Internals to Web Architectures**
+
+`Memory Allocation` → `Process Management` → `API Design` → `Container Orchestration`
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Code%20•%20Learn%20•%20Build&fontSize=30&fontColor=fff&animation=twinkling" width="100%"/>
