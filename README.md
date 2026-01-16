@@ -70,27 +70,16 @@
 
 <p align="left">
 <a href="https://github.com/NikkoAvardes">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=NikkoAvardes&layout=compact&theme=gotham&langs_count=6" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NikkoAvardes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/NikkoAvardes">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikkoAvardes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikkoAvardes&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
 </a>
 </p>
 
-<table align="center" width="100%" style="border: none;">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h4 align="center">🎧 Vibe while coding</h4>
-      <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novaterm&bar_color=53b14f&bar_color_cover=false">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novaterm&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing" width="100%" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h4 align="center">💡 Wisdom</h4>
-      <img src="https://github-readme-quotes.herokuapp.com/quote?theme=gotham&animation=typewriter" alt="Random Quote" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikkoAvardes&theme=gotham&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <br>
 
