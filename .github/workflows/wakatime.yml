@@ -4,7 +4,7 @@ on:
   schedule:
     # Запуск каждый день в 00:00 UTC
     - cron: '0 0 * * *'
-  # Возможность запускать вручную через кнопку (для теста)
+  # Кнопка для ручного запуска
   workflow_dispatch:
 
 jobs:
@@ -12,20 +12,21 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     
-    # !!! ВАЖНО: Разрешаем экшену редактировать файлы репозитория
+    # Права на запись в файл обязательны!
     permissions:
       contents: write
 
     steps:
       - uses: actions/checkout@v3
       
-      - uses: athul/waka-readme-stats@master
+      # ИСПРАВЛЕНИЕ ЗДЕСЬ: убрали "-stats" из названия
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Токен для пуша изменений
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHOW_TITLE: true
-          # Используем стандартные блоки, чтобы избежать ошибок кодировки
-          # BLOCKS: ⣀⣄⣤⣦⣶⣷⣿  <- иногда вызывает ошибки парсинга, лучше пока убрать
+          # Блоки для графика
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_TOTAL: true
