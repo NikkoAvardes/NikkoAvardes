@@ -29,11 +29,11 @@
 
 <br>
 
-<div align="center">
+<div align="center" width="150%">
 
 ### 💭 My Mindset
 
-<table width="150%">
+<table>
 <tr>
 <td align="center">
 
