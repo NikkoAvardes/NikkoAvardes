@@ -16,6 +16,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NikkoAvardes&color=blue&style=flat" alt="Profile views"/>
+</p>
+
 <br>
 
 <p align="center">
@@ -176,13 +180,6 @@ Git        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NikkoAvardes&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
 
 <p align="center">
 <a href="https://github.com/NikkoAvardes">
