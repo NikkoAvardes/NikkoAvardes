@@ -186,10 +186,6 @@ Git        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </a>
 </p>
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=NikkoAvardes&theme=gotham&hide_border=true" alt="GitHub Streak" />
-</p>
-
 <br>
 
 <p align="center">
