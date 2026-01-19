@@ -177,7 +177,7 @@ Git        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/NikkoAvardes">
   <img src="https://github-readme-stats.vercel.app/api?username=NikkoAvardes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
 </a>
