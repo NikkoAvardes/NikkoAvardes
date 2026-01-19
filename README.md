@@ -179,17 +179,17 @@ Git        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats-three-alpha-19.vercel.app/" alt="GitHub Trophies" />
-</p>
+<h3 align="left">📊 Coding Activity</h3>
 
+...
+<br>
 
 <p align="center">
 <a href="https://github.com/NikkoAvardes">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikkoAvardes&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-three-alpha-19.vercel.app/api?username=NikkoAvardes&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/NikkoAvardes">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikkoAvardes&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-three-alpha-19.vercel.app/api/top-langs/?username=NikkoAvardes&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
 </a>
 </p>
 
