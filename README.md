@@ -189,6 +189,12 @@ Git        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <br>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NikkoAvardes&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+<br>
+
+<p align="center">
   <b>Interested in collaboration?</b><br>
   I am open to discussions about Fullstack development and System Programming.<br>
   <br>
