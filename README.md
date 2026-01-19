@@ -180,7 +180,7 @@ Git        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NikkoAvardes&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats-three-alpha-19.vercel.app/" alt="GitHub Trophies" />
 </p>
 
 
