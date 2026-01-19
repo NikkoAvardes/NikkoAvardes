@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Portfolio | Ivan Dev</title>
+    <style>
+        /* Базовые стили для чистоты примера */
+        :root { --bg: #0f172a; --text: #e2e8f0; --accent: #38bdf8; }
+        body { background: var(--bg); color: var(--text); font-family: 'Fira Code', monospace; line-height: 1.6; margin: 0; padding: 0; }
+        .container { max-width: 800px; margin: 0 auto; padding: 2rem; }
+        
+        /* Секции */
+        section { margin-bottom: 4rem; }
+        h1, h2 { color: var(--accent); }
+        
+        /* Сетка навыков */
+        .skills-grid { display: flex; gap: 10px; flex-wrap: wrap; }
+        .skill-tag { background: #1e293b; padding: 5px 10px; border-radius: 4px; border: 1px solid var(--accent); }
+        
+        /* Интерактивный терминал */
+        #terminal { background: #000; padding: 20px; border-radius: 8px; border: 1px solid #333; box-shadow: 0 0 15px rgba(56, 189, 248, 0.2); }
+        #terminal-output { white-space: pre-wrap; margin-bottom: 10px; color: #4ade80; }
+        #terminal-input { background: transparent; border: none; color: #fff; font-family: inherit; width: 80%; outline: none; }
+        
+        /* Контакты */
+        .social-links a { color: var(--text); margin-right: 15px; text-decoration: none; border-bottom: 1px dashed var(--accent); }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <section id="hero">
+        <h1>Hello, World! Я Иван.</h1>
+        <p>Fullstack разработчик, превращающий кофе в чистый код.</p>
+    </section>
+
+    <section id="about">
+        <h2>01. Обо мне</h2>
+        <p>Я специализируюсь на создании высоконагруженных систем. Мой подход: "Make it work, make it right, make it fast". В свободное время контрибьючу в Open Source.</p>
+    </section>
+
+    <section id="skills">
+        <h2>02. Стек</h2>
+        <div class="skills-grid">
+            <span class="skill-tag">Python</span>
+            <span class="skill-tag">JavaScript</span>
+            <span class="skill-tag">React</span>
+            <span class="skill-tag">Docker</span>
+            <span class="skill-tag">PostgreSQL</span>
+        </div>
+    </section>
+
+    <section id="experience">
+        <h2>03. Опыт</h2>
+        <div class="job">
+            <h3>Senior Dev @ TechCorp</h3>
+            <small>2021 — Наст. время</small>
+            <ul>
+                <li>Оптимизировал SQL-запросы, ускорив загрузку дашборда на 300%.</li>
+                <li>Внедрил CI/CD пайплайны, сократив время деплоя с 1 часа до 5 минут.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="interactive">
+        <h2>04. Terminal Access</h2>
+        <p>Введите <code style="color:var(--accent)">help</code> чтобы увидеть список команд.</p>
+        <div id="terminal">
+            <div id="terminal-output">Welcome to IvanOS v1.0...</div>
+            <span>visitor@portfolio:~$ </span>
+            <input type="text" id="terminal-input" autocomplete="off" autofocus>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>05. Связь</h2>
+        <div class="social-links">
+            <a href="#">GitHub</a>
+            <a href="#">Telegram</a>
+            <a href="#">Email</a>
+        </div>
+    </section>
+</div>
+
+<script>
+    // Логика терминала
+    const input = document.getElementById('terminal-input');
+    const output = document.getElementById('terminal-output');
+
+    input.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter') {
+            const command = input.value.trim().toLowerCase();
+            let response = '';
+
+            switch(command) {
+                case 'help':
+                    response = 'Доступные команды: \n- about: Кто я?\n- contact: Как связаться?\n- clear: Очистить экран';
+                    break;
+                case 'about':
+                    response = 'Я Иван, разработчик с 5-летним стажем. Люблю алгоритмы и котов.';
+                    break;
+                case 'contact':
+                    response = 'Email: ivan@dev.com | TG: @ivandev';
+                    break;
+                case 'clear':
+                    output.innerText = 'Welcome to IvanOS v1.0...';
+                    input.value = '';
+                    return;
+                default:
+                    response = `Команда '${command}' не найдена. Введите 'help'.`;
+            }
+
+            output.innerText += `\nvisitor@portfolio:~$ ${command}\n${response}`;
+            input.value = '';
+            // Автоскролл вниз
+            const terminal = document.getElementById('terminal');
+            terminal.scrollTop = terminal.scrollHeight;
+        }
+    });
+</script>
+
+</body>
+</html>
