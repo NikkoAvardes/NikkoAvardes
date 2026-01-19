@@ -177,6 +177,13 @@ Git        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NikkoAvardes&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+
 <p align="center">
 <a href="https://github.com/NikkoAvardes">
   <img src="https://github-readme-stats.vercel.app/api?username=NikkoAvardes&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats" />
@@ -184,12 +191,6 @@ Git        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <a href="https://github.com/NikkoAvardes">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikkoAvardes&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
 </a>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NikkoAvardes&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 <br>
