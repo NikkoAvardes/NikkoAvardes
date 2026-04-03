@@ -110,16 +110,18 @@
 <tr>
 <td colspan="2" valign="top">
 
-### 👨‍💻 Personal Developer Portfolio
-**Interactive Showcase & Professional Profile**
+### 👥 PRESTAU • Collaborative Platform
+**Full-Stack Team Project**
 
-Designed and developed a fully responsive personal portfolio to showcase my full-stack projects, technical journey, and real-time coding activity. Optimized for performance, a11y (Accessibility), and clean UI/UX (User Interface / User Experience).
+Co-developed a complex web ecosystem designed for [цель, например: professional networking and recruitment]. We implemented a robust data architecture with a focus on real-time interactions and seamless user experience.
+
+* **Key Features:** Advanced search engine with auto-completion, secure authentication system, and dynamic entity-relationship management.
+* **Technical Impact:** Optimized database performance using a custom **MCD** (**M**odèle **C**onceptuel de **D**onnées) and integrated external APIs for real-time data validation.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 </td>
 </tr>
 <tr>
