@@ -200,10 +200,10 @@ Python       28 mins               ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <p align="center">
 <a href="https://github.com/NikkoAvardes">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikkoAvardes&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-jade-sigma-82.vercel.app//api?username=NikkoAvardes&show_icons=true&theme=gotham&hide_border=true" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/NikkoAvardes">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikkoAvardes&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-jade-sigma-82.vercel.app//api/top-langs/?username=NikkoAvardes&layout=compact&theme=gotham&hide_border=true" alt="Top Languages" />
 </a>
 </p>
 
