@@ -109,18 +109,17 @@
 <table width="100%">
 <tr>
 <td colspan="2" valign="top">
-
-### 👥 PRESTAU • Collaborative Platform
+### 👥 Prestau • Food Service Marketplace
 **Full-Stack Team Project**
 
-Co-developed a complex web ecosystem designed for [цель, например: professional networking and recruitment]. We implemented a robust data architecture with a focus on real-time interactions and seamless user experience.
+Co-developed a mobile marketplace connecting restaurants with temporary staff. Built a complete hiring ecosystem—from job posting and application management to interactive availability calendars and mutual rating systems.
 
-* **Key Features:** Advanced search engine with auto-completion, secure authentication system, and dynamic entity-relationship management.
-* **Technical Impact:** Optimized database performance using a custom **MCD** (**M**odèle **C**onceptuel de **D**onnées) and integrated external APIs for real-time data validation.
+* **Key Features:** Advanced city search (Geo API), secure JWT authentication (Access/Refresh), and real-time mission status tracking.
+* **Technical Impact:** Engineered a complex **MCD** with **Prisma** (7 tables, cascade logic) and implemented **RBAC** (Role-Based Access Control) for secure data isolation.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 </td>
 </tr>
