@@ -109,7 +109,7 @@
 <table width="100%">
 <tr>
 <td colspan="2" valign="top">
-### 👥 Prestau • Food Service Marketplace
+👥 Prestau • Food Service Marketplace
 **Full-Stack Team Project**
 
 Co-developed a mobile marketplace connecting restaurants with temporary staff. Built a complete hiring ecosystem—from job posting and application management to interactive availability calendars and mutual rating systems.
