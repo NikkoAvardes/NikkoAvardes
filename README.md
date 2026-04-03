@@ -23,7 +23,7 @@
 <br>
 
 <p align="center">
-  <strong>Holberton School Student</strong> • Building with <code>C</code>, <code>Python</code>, and <code>JavaScript</code>
+  <strong>Full-Stack Developer</strong> • Building with <code>C</code>, <code>React</code>, <code>Python</code>, and <code>JavaScript</code>
 </p>
 
 <p align="center">
@@ -107,6 +107,21 @@
 <h2 align="center">🚀 Selected Projects</h2>
 
 <table width="100%">
+<tr>
+<td colspan="2" valign="top">
+
+### 👨‍💻 Personal Developer Portfolio
+**Interactive Showcase & Professional Profile**
+
+Designed and developed a fully responsive personal portfolio to showcase my full-stack projects, technical journey, and real-time coding activity. Optimized for performance, a11y (Accessibility), and clean UI/UX (User Interface / User Experience).
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
